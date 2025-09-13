@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AlxTravelAppConfig(AppConfig):
+class ListingsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'alx_travel_app'
+    name = 'listings'
