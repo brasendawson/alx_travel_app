@@ -24,6 +24,11 @@ A Django REST API application for travel listings with Swagger documentation.
 
 3. **Install dependencies**:
    ```bash
+   pip install -r requirements.txt
+   ```
+   
+   Or install manually:
+   ```bash
    pip install django djangorestframework django-cors-headers celery drf-yasg django-environ PyMySQL
    ```
 
